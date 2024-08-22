@@ -1,1 +1,1 @@
-# image-creation
+# text-to-video generation
